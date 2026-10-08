@@ -19,6 +19,6 @@ A high-end, responsive developer portfolio built with plain HTML, CSS and JavaSc
 Open `index.html` in a browser. No build step is required.
 
 ## Customize
-- Replace `assets/profile.jpg` with another portrait using the same filename.
+- The hero portrait uses `favicon.jpeg`. To change only the portrait, add a new image and update the `.profile-image` source in `index.html`.
 - Edit links and text inside `index.html`.
 - Adjust colors in the `:root` section of `style.css`.
